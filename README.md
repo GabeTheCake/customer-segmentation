@@ -1,10 +1,6 @@
 # 📊 Segmentação de Clientes com Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Clustering-orange)  
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)  
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)  ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Clustering-orange)  ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Projeto de Data Science focado em **segmentação estratégica de clientes**, utilizando **KMeans, análise exploratória, métricas de avaliação e dashboard executivo interativo**.
 
