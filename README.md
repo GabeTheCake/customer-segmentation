@@ -60,7 +60,7 @@ Empresas que possuem uma base de clientes heterogênea enfrentam desafios como:
 ## 📁 Estrutura do Projeto
 
 ```
-Projeto 1 - customer-segmentation/
+customer-segmentation/
 │
 ├── data/
 │   ├── segmentation data legend.xlsx
